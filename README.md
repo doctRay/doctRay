@@ -7,7 +7,7 @@ Je fais de la fantrad tellement perfectionniste qu'on me prend pour un pro 🤡 
 Les repos concernent des projets de traductions implicant de l'informatiques, comme des trads de JV.
 (de base, je suis vidéaste)
 
-📫 Contact en MP sur "https://x.com/doctRay_"
+📫 Contact en MP sur [https://x.com/doctRay_](X (anciennement Twitter))
 <!---
 doctRay/doctRay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
